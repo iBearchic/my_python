@@ -2,25 +2,9 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdin",
-     "output_type": "stream",
-     "text": [
-      "Введите число от 1 до 4\n",
-      " 4\n"
-     ]
-    },
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Повторите еще раз!\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "import random\n",
     "def randomChoice(x):\n",

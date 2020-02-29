@@ -1,3 +1,4 @@
+#https://drakonhub.com/ide/doc/dzhamah/2
 import random
 def randomChoice(x):
     m=random.randint(1,4)

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#https://drakonhub.com/ide/doc/dzhamah/2
+>>>>>>> 66866c22582920a72504d4cf71bf1e8625d9f140
 import random
 def randomChoice(x):
     m=random.randint(1,4)

@@ -4,5 +4,8 @@ def my_func_sin(x):
         return math.sin(x)
     else:
         return 1
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 66866c22582920a72504d4cf71bf1e8625d9f140

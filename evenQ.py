@@ -1,12 +1,9 @@
 def evenQ(x):
     """
-    >>> evenQ(5)
-    False
-    
-    >>> evenQ(4)
+    >>> evenQ(2)
     True
     
-    >>> evenQ(1)
+    >>> evenQ(3)
     False
     """
     return x%2==0
